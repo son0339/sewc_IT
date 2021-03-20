@@ -15,3 +15,5 @@
 >
 <pre><code>코드블럭</pre></code>
 * * *
+
+<img widt="" height="" src="./png/cat 실습.jpg"><img/>
